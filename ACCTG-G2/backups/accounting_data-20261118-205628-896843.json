@@ -1,0 +1,14 @@
+{
+  "entries": [
+    {
+      "date": "2026-11-18",
+      "debit": "Accounts Receivable",
+      "credit": "Owner's Capital",
+      "amount": "5000.00",
+      "desc": "sumala nimo",
+      "adj": false,
+      "datetime": "2026-11-18T00:00:00"
+    }
+  ],
+  "custom": {}
+}
